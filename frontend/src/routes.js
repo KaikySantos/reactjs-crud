@@ -6,6 +6,7 @@ function Routes() {
     return (
         <BrowserRouter>
             <Route path="/" exact component={Home} />
+            <Route path="/:id" exact component={Home} />
         </BrowserRouter>
     )
 }
