@@ -1,9 +1,9 @@
-# Simples aplicação que permite Adicionar, Listar, Deletar e Editar Usuários!
+# React.JS CRUD
 
-## 📷 Screenshot:
+## 📷 Captura de tela:
 <img src="./img-readme/print.PNG" width="700px">
 
-# :construction_worker: Como rodar?
+# :construction_worker: Como rodar ?
 
 ```bash
 # Clone o repositório
