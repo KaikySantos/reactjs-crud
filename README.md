@@ -11,7 +11,7 @@ $ git clone https://github.com/KaikySantos/reactjs-crud.git
 # Access the project folder
 $ cd reactjs-crud
 ```
-### 📦 Inicie a API
+### 📦 Start API
 
 ```bash
 # Access the project folder
@@ -25,7 +25,7 @@ $ yarn start
 ```
 URL: http://localhost:3333/
 
-### 💻 Rode a aplicação
+### 💻 Run the application
 
 ```bash
 # Access the project folder
