@@ -1,26 +1,26 @@
 # React.JS CRUD
 
-## 📷 Captura de tela:
+## 📷 Screenshot:
 <img src="./img-readme/print.PNG" width="700px">
 
-# :construction_worker: Como rodar ?
+# :construction_worker: How work ?
 
 ```bash
-# Clone o repositório
+# Clone this repository
 $ git clone https://github.com/KaikySantos/reactjs-crud.git
-# Entre na pasta
+# Access the project folder
 $ cd reactjs-crud
 ```
 ### 📦 Inicie a API
 
 ```bash
-# Entre na pasta da API
+# Access the project folder
 $ cd backend
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Rode a API
+# Run the application
 $ yarn start
 ```
 URL: http://localhost:3333/
@@ -28,13 +28,13 @@ URL: http://localhost:3333/
 ### 💻 Rode a aplicação
 
 ```bash
-# Entre no FrontEnd da aplicação
+# Access the project folder
 $ cd reactjs-crud/frontend
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Rode a aplicação
+# Run the application
 $ yarn start
 ```
-Acesse http://localhost:3000/ para ver o resultado!
+Go to http://localhost:3000/ to see the result!
